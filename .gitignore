@@ -1,0 +1,19 @@
+# Google API credentials
+credentials.json
+
+# Apollo.io contact data
+apollo-contacts.csv
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo credentials.json
